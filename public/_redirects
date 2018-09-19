@@ -3,3 +3,6 @@
 /download   https://download.chirimen.org/release/raspberry_pi_3/
 /raspi3     https://github.com/chirimen-oh/chirimen-raspi3
 /issues     https://github.com/chirimen-oh/chirimen-raspi3/issues
+/GPIO-Blink https://jsbin.com/memejec/edit
+/GPIO-Button  https://jsbin.com/fihalap/edit
+/GPIO-readGpioValue https://jsbin.com/nuqeyiq/edit
