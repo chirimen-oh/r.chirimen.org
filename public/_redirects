@@ -5,9 +5,6 @@
 /raspi3                     https://github.com/chirimen-oh/chirimen-raspi3
 /issues                     https://github.com/chirimen-oh/chirimen-raspi3/issues
 
-/jsbin                      https://jsbin.com/
-/jsfiddle                   https://jsfiddle.net/
-
 # examples(GPIO)
 /gpio-blink                 https://jsbin.com/memejec/edit
 /gpio-button                https://jsbin.com/fihalap/edit
