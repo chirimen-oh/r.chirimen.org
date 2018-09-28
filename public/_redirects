@@ -8,7 +8,7 @@
 # examples(GPIO)
 /gpio-blink                 https://jsbin.com/memejec/edit
 /gpio-button                https://jsbin.com/fihalap/edit
-/gpio-readgpioValue         https://jsbin.com/nuqeyiq/edit
+/gpio-readGpioValue         https://jsbin.com/nuqeyiq/edit
 /gpio-pirsensor             https://rawgit.com/chirimen-oh/tutorials/master/RaspberryPi/examples/JSBinLinks/GPIO-pirSensor.html　# JS Bin なし
 /gpio-multiblinkall         https://rawgit.com/chirimen-oh/tutorials/master/RaspberryPi/examples/JSBinLinks/GPIO-MultiBlinkAll.html　# JS Bin なし
 /gpio-buttonall             https://rawgit.com/chirimen-oh/tutorials/master/RaspberryPi/examples/JSBinLinks/GPIO-buttonAll.html　# JS Bin なし
