@@ -10,7 +10,7 @@
 /gpio-button                https://jsbin.com/fihalap/edit
 /gpio-readgpiovalue         https://jsbin.com/nuqeyiq/edit
 /gpio-pirsensor             https://rawgit.com/chirimen-oh/tutorials/master/RaspberryPi/examples/JSBinLinks/GPIO-pirSensor.html　# JS Bin なし
-/gpio-multiblinkall         https://rawgit.com/chirimen-oh/tutorials/master/RaspberryPi/examples/JSBinLinks/GPIO-MultiBlinkAll.html　# JS Bin なし
+/gpio-multiblinkall         https://jsbin.com/dofewod/edit?html,js,output
 /gpio-buttonall             https://rawgit.com/chirimen-oh/tutorials/master/RaspberryPi/examples/JSBinLinks/GPIO-buttonAll.html　# JS Bin なし
 
 # examples(I2C)
