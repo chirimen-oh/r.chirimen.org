@@ -1,11 +1,22 @@
-# basic
+# Basic Project Urls
 /                           https://chirimen.org/
-/tutorial                   https://tutorial.chirimen.org/
 /download                   https://download.chirimen.org/release/raspberry_pi_3/
 /raspi3                     https://github.com/chirimen-oh/chirimen-raspi3
 /issues                     https://github.com/chirimen-oh/chirimen-raspi3/issues
 
-# examples(GPIO)
+# Tutorials and Documents
+/tutorial                   https://tutorial.chirimen.org/
+/tutorial0                  https://tutorial.chirimen.org/raspberrypi/ja/section0
+/tutorial1                  https://tutorial.chirimen.org/raspberrypi/ja/section1
+/tutorial2                  https://tutorial.chirimen.org/raspberrypi/ja/section2
+/tutorial3                  https://tutorial.chirimen.org/raspberrypi/ja/section3
+/tutorial4                  https://tutorial.chirimen.org/raspberrypi/ja/section4
+/tutorial5                  https://tutorial.chirimen.org/raspberrypi/ja/section5
+/tutorial6                  https://tutorial.chirimen.org/raspberrypi/ja/section6
+/1dayjs                     https://webiotmakers.github.io/static/docs/2017/maebashi-js.pdf
+/appendix0                  https://tutorial.chirimen.org/raspberrypi/ja/appendix0
+
+# GPIO Examples on JSBin (without css panel)
 /gpio-blink                 https://jsbin.com/memejec/edit?html,js,console,output
 /gpio-button                https://jsbin.com/fihalap/edit?html,js,console,output
 /gpio-readgpiovalue         https://jsbin.com/nuqeyiq/edit?html,js,console,output
@@ -13,7 +24,7 @@
 /gpio-multiblinkall         https://jsbin.com/dofewod/edit?html,js,console,output
 /gpio-buttonall             https://jsbin.com/cakehag/edit?html,js,console,output
 
-# examples(I2C)
+# I2C Examples on JSBin (without css panel)
 /i2c-adt7410                https://jsbin.com/geduhex/edit?html,js,console,output
 /i2c-grove-accelerometer    https://jsbin.com/subatetexa/edit # async awaitじゃない版
 /i2c-grove-gesture          https://jsbin.com/hewetagazo/edit # async awaitじゃない版
