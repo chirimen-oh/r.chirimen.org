@@ -6,15 +6,15 @@
 
 # Tutorials and Documents
 /tutorial                   https://tutorial.chirimen.org/
-/tutorial0                  https://tutorial.chirimen.org/raspberrypi/ja/section0
-/tutorial1                  https://tutorial.chirimen.org/raspberrypi/ja/section1
-/tutorial2                  https://tutorial.chirimen.org/raspberrypi/ja/section2
-/tutorial3                  https://tutorial.chirimen.org/raspberrypi/ja/section3
-/tutorial4                  https://tutorial.chirimen.org/raspberrypi/ja/section4
-/tutorial5                  https://tutorial.chirimen.org/raspberrypi/ja/section5
-/tutorial6                  https://tutorial.chirimen.org/raspberrypi/ja/section6
+/tutorial0                  https://tutorial.chirimen.org/raspi3/ja/section0
+/tutorial1                  https://tutorial.chirimen.org/raspi3/ja/section1
+/tutorial2                  https://tutorial.chirimen.org/raspi3/ja/section2
+/tutorial3                  https://tutorial.chirimen.org/raspi3/ja/section3
+/tutorial4                  https://tutorial.chirimen.org/raspi3/ja/section4
+/tutorial5                  https://tutorial.chirimen.org/raspi3/ja/section5
+/tutorial6                  https://tutorial.chirimen.org/raspi3/ja/section6
 /1dayjs                     https://webiotmakers.github.io/static/docs/2017/maebashi-js.pdf
-/appendix0                  https://tutorial.chirimen.org/raspberrypi/ja/appendix0
+/appendix0                  https://tutorial.chirimen.org/raspi3/ja/appendix0
 
 # GPIO Examples on JSBin (without css panel)
 /gpio-blink                 https://jsbin.com/memejec/edit?html,js,console,output
