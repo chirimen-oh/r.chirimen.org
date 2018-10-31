@@ -3,7 +3,7 @@
 
 このサイトは netlify でホストすることで、簡単なテキストファイルの編集だけでリダイレクト専用 URL を一括して作成、管理、ホスト出来るようにしています。
 
-`_recirects` ファイルに r.chirimen.org 配下の URL にアクセスしたときのリダイレクト先 URL を定義してください。変更を master ブランチに push すれば即時本番サイトに反映されます。書式の仕様は [Netlify のリダイレクト解説ページ](<https://www.netlify.com/docs/redirects/>) をご覧ください。設定のテストは [Netlify's Playground ページ](https://play.netlify.com/redirects) で確認できます。
+[`_recirects` ファイル](https://github.com/chirimen-oh/r.chirimen.org/blob/master/_redirects) に r.chirimen.org 配下の URL にアクセスしたときのリダイレクト先 URL を定義してください。変更を master ブランチに push すれば即時本番サイトに反映されます。書式の仕様は [Netlify のリダイレクト解説ページ](<https://www.netlify.com/docs/redirects/>) をご覧ください。設定のテストは [Netlify's Playground ページ](https://play.netlify.com/redirects) で確認できます。
 
 Netlify のサイト側ではこの github リポジトリと連携させ、DNS サーバで `r.chirimen.org` を netlify に向ける以外の設定は一切していません (Publish directory も指定無しでリポジトリルートを直接公開)。
 
