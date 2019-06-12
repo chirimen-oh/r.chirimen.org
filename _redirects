@@ -21,6 +21,7 @@
 /polyfill                   https://chirimen.org/chirimen-raspi3/gc/polyfill/polyfill.js
 
 # GPIO Examples on JSBin (without css panel)
+# https://github.com/chirimen-oh/chirimen-raspi3/tree/master/gc/gpio
 /gpio-blink                 https://jsbin.com/memejec/edit?html,js,console,output
 /gpio-button                https://jsbin.com/fihalap/edit?html,js,console,output
 /gpio-readgpiovalue         https://jsbin.com/nuqeyiq/edit?html,js,console,output
@@ -29,6 +30,7 @@
 /gpio-buttonall             https://jsbin.com/cakehag/edit?html,js,console,output
 
 # I2C Examples on JSBin (without css panel)
+# https://github.com/chirimen-oh/chirimen-raspi3/tree/master/gc/i2c
 /i2c-adt7410                https://jsbin.com/geduhex/edit?html,js,console,output
 /i2c-grove-accelerometer    https://jsbin.com/qefivop/edit?html,js,output
 /i2c-grove-gesture          https://jsbin.com/joxodit/edit?html,js,output
@@ -43,3 +45,6 @@
 /i2c-multi-sensors          https://jsbin.com/mesucot/edit?html,js,output
 /i2c-canzasi-blink          https://rawgit.com/chirimen-oh/tutorials/master/RaspberryPi/examples/JSBinLinks/I2C-canzasi-blink.html　# JS Bin なし
 /i2c-arduino-steppingmotor  https://rawgit.com/chirimen-oh/tutorials/master/RaspberryPi/examples/JSBinLinks/I2C-arduino-steppingMotor.html　# JS Bin なし
+
+# Contrib Examples on JSBin (without css panel)
+# https://github.com/chirimen-oh/chirimen-raspi3/tree/master/gc/contrib/examples
