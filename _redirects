@@ -48,4 +48,7 @@
 
 # Contrib Examples on JSBin (without css panel)
 # https://github.com/chirimen-oh/chirimen-raspi3/tree/master/gc/contrib/examples
-/i2c-bme280                 https://jsbin.com/wejoburaci/edit?html,js,output
+/i2c-bme280                 https://jsbin.com/copicuhaye/edit?html,js,output
+/i2x-MPU-6050               https://jsbin.com/sozesicero/edit?html,js,output
+/gpio-hbridge               https://jsbin.com/yarixedaho/edit?html,js,output
+/i2c-bmp180                 https://jsbin.com/rocomofoju/edit?html,js,output
