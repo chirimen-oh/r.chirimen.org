@@ -43,8 +43,9 @@
 /i2c-s11059                 https://jsbin.com/juhafeg/edit?html,js,console,output
 /i2c-veml6070               https://jsbin.com/sefelel/edit?html,js,output
 /i2c-multi-sensors          https://jsbin.com/mesucot/edit?html,js,output
-/i2c-canzasi-blink          https://jsbin.com/devusupaha/edit?html,js,output
-/i2c-arduino-steppingmotor  https://rawgit.com/chirimen-oh/tutorials/master/RaspberryPi/examples/JSBinLinks/I2C-arduino-steppingMotor.html　# JS Bin なし
+/i2c-canzasi-blink          https://jsbin.com/woripeqiga/edit?html,js,output
+/i2c-arduino-steppingmotor  https://jsbin.com/laqoficahi/edit?html,js,output
 
 # Contrib Examples on JSBin (without css panel)
 # https://github.com/chirimen-oh/chirimen-raspi3/tree/master/gc/contrib/examples
+/i2c-bme280                 https://jsbin.com/wejoburaci/edit?html,js,output
