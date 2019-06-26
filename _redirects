@@ -25,7 +25,7 @@
 /gpio-blink                 https://jsbin.com/memejec/edit?html,js,console,output
 /gpio-button                https://jsbin.com/fihalap/edit?html,js,console,output
 /gpio-readgpiovalue         https://jsbin.com/nuqeyiq/edit?html,js,console,output
-/gpio-pirsensor             https://rawgit.com/chirimen-oh/tutorials/master/RaspberryPi/examples/JSBinLinks/GPIO-pirSensor.html　# JS Bin なし
+/gpio-pirsensor             https://jsbin.com/gebunegezo/edit?html,js,console,output
 /gpio-multiblinkall         https://jsbin.com/dofewod/edit?html,js,console,output
 /gpio-buttonall             https://jsbin.com/cakehag/edit?html,js,console,output
 
@@ -43,19 +43,20 @@
 /i2c-s11059                 https://jsbin.com/juhafeg/edit?html,js,console,output
 /i2c-veml6070               https://jsbin.com/sefelel/edit?html,js,output
 /i2c-multi-sensors          https://jsbin.com/mesucot/edit?html,js,output
-/i2c-canzasi-blink          https://jsbin.com/woripeqiga/edit?html,js,output
-/i2c-arduino-steppingmotor  https://jsbin.com/laqoficahi/edit?html,js,output
+/i2c-canzasi-blink          https://jsbin.com/qayotonoqo/edit?html,js,output
+/i2c-arduino-steppingmotor  https://jsbin.com/lololepeyi/edit?html,js,output
 
 # Contrib Examples on JSBin (without css panel)
 # https://github.com/chirimen-oh/chirimen-raspi3/tree/master/gc/contrib/examples
-/i2c-bme280                 https://jsbin.com/copicuhaye/edit?html,js,output
-/gpio-hbridge               https://jsbin.com/yarixedaho/edit?html,js,output
-/i2c-bmp180                 https://jsbin.com/rocomofoju/edit?html,js,output
-/i2c-vl53l0x                https://jsbin.com/vinabitoxe/edit?html,js,output
-/i2c-bmp280                 https://jsbin.com/bojezacodu/edit?html,js,output
-/i2c-mpu6050                https://jsbin.com/nuraciginu/edit?html,js,output
-/i2c-mpu9250                https://jsbin.com/denigutale/edit?html,js,output
-/gpio-i2c-pwmhbridge        https://jsbin.com/fofapamuvo/edit?html,js,output
-/gpio-i2c-pwmhbridge2       
-/i2c-neopixel_i2c           https://jsbin.com/cewaloteqa/edit?html,js,output
-/i2c-pcf8591                https://jsbin.com/quwakalite/edit?html,js,output
+/i2c-bme280                 https://jsbin.com/demewuvidu/edit?html,js,output
+/i2c-mpu6050                https://jsbin.com/nuwolavila/edit?html,js,output
+/gpio-hbridge               https://jsbin.com/wufahukaqu/edit?html,js,output
+/i2c-bmp180                 https://jsbin.com/porupehexu/edit?html,js,output
+/i2c-vl53l0x                https://jsbin.com/xuhucusemu/edit?html,js,output
+/i2c-bmp280                 https://jsbin.com/limuxedura/edit?html,js,output
+/i2c-mpu9250                https://jsbin.com/xekuhuwepa/edit?html,js,output
+/gpio-i2c-pwmhbridge        https://jsbin.com/direnocafe/edit?html,js,output
+/gpio-i2c-pwmhbridge2       https://jsbin.com/kegawuzuqi/edit?html,js,output
+/i2c-neopixel_i2c           https://jsbin.com/resekojija/edit?html,js,output
+/i2c-pcf8591                https://jsbin.com/zatapugoba/edit?html,js,output
+/i2c-ADS1115                https://jsbin.com/kuboyaxesu/edit?html,js,output
