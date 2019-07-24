@@ -7,15 +7,16 @@
 
 # Tutorials and Documents
 /tutorial                   https://tutorial.chirimen.org/
-/tutorial0                  https://tutorial.chirimen.org/raspi3/ja/section0
-/tutorial1                  https://tutorial.chirimen.org/raspi3/ja/section1
-/tutorial2                  https://tutorial.chirimen.org/raspi3/ja/section2
-/tutorial3                  https://tutorial.chirimen.org/raspi3/ja/section3
-/tutorial4                  https://tutorial.chirimen.org/raspi3/ja/section4
-/tutorial5                  https://tutorial.chirimen.org/raspi3/ja/section5
-/tutorial6                  https://tutorial.chirimen.org/raspi3/ja/section6
+/hello                      https://tutorial.chirimen.org/raspi3/hellorealworld
+/tutorial0                  https://tutorial.chirimen.org/raspi3/section0
+/tutorial1                  https://tutorial.chirimen.org/raspi3/section1
+/tutorial2                  https://tutorial.chirimen.org/raspi3/section2
+/tutorial3                  https://tutorial.chirimen.org/raspi3/section3
+/tutorial4                  https://tutorial.chirimen.org/raspi3/section4
+/tutorial5                  https://tutorial.chirimen.org/raspi3/section5
+/tutorial6                  https://tutorial.chirimen.org/raspi3/section6
 /1dayjs                     https://webiotmakers.github.io/static/docs/2017/maebashi-js.pdf
-/appendix0                  https://tutorial.chirimen.org/raspi3/ja/appendix0
+/appendix0                  https://tutorial.chirimen.org/raspi3/appendix0
 
 # JavaScript Files
 /polyfill                   https://chirimen.org/chirimen-raspi3/gc/polyfill/polyfill.js
