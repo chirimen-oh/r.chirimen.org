@@ -22,7 +22,7 @@
 /polyfill                   https://chirimen.org/chirimen-raspi3/gc/polyfill/polyfill.js
 
 # Examples
-/exampples                  http://chirimen.org/chirimen-raspi3/gc/top/examples/
+/examples                   http://chirimen.org/chirimen-raspi3/gc/top/examples/
 
 # GPIO Examples on JSBin (without css panel)
 # https://github.com/chirimen-oh/chirimen-raspi3/tree/master/gc/gpio
