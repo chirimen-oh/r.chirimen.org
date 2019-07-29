@@ -20,6 +20,10 @@
 
 # JavaScript Files
 /polyfill                   https://chirimen.org/chirimen-raspi3/gc/polyfill/polyfill.js
+# TODO: need directory index
+/drivers                    https://chirimen.org/chirimen-raspi3/gc/drivers
+/gc                         https://chirimen-raspi3-gc.netlify.com/gc.zip
+/_gc                        https://chirimen-raspi3-gc.netlify.com/_gc.zip
 
 # Examples
 /examples                   http://chirimen.org/chirimen-raspi3/gc/top/examples/
