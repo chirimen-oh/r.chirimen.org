@@ -18,12 +18,15 @@
 /1dayjs                     https://webiotmakers.github.io/static/docs/2017/maebashi-js.pdf
 /appendix0                  https://tutorial.chirimen.org/raspi3/appendix0
 
+# CHIRIMEN Environment archive
+/gc.zip                     https://chirimen-raspi3-gc.netlify.com/gc.zip
+/_gc.zip                    https://chirimen-raspi3-gc.netlify.com/_gc.zip
+
 # JavaScript Files
 /polyfill                   https://chirimen.org/chirimen-raspi3/gc/polyfill/polyfill.js
+/polyfill.js                https://chirimen.org/chirimen-raspi3/gc/polyfill/polyfill.js
 # TODO: need directory index
 /drivers                    https://chirimen.org/chirimen-raspi3/gc/drivers
-/gc                         https://chirimen-raspi3-gc.netlify.com/gc.zip
-/_gc                        https://chirimen-raspi3-gc.netlify.com/_gc.zip
 
 # Examples
 /examples                   http://chirimen.org/chirimen-raspi3/gc/top/examples/
