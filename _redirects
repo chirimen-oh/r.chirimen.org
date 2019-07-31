@@ -75,6 +75,8 @@
 
 # I2C Examples on online editors (CodeSandbox, JSBin without css panel)
 # https://github.com/chirimen-oh/chirimen-raspi3/tree/master/gc/i2c
+/i2cdetect                  http://chirimen.org/chirimen-raspi3/gc/i2c/i2c-detect/i2cdetectPI.html
+
 /i2c-ads1015                /jsbin-i2c-ads1015
 /jsbin-i2c-ads1015          /jsbin/rajudeg
 /csb-ads1015                /csb-raspi3/i2c/i2c-ADS1015
