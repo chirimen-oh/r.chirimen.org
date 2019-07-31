@@ -34,8 +34,13 @@
 # Examples
 /examples                   http://chirimen.org/chirimen-raspi3/gc/top/examples/
 
-# long to short
+# aliases for online editors
+/jsbin/*                    https://jsbin.com/:splat/edit?html,js,console,output
+/codesandbox/*              https://codesandbox.io/s/:splat
+
+# aliases for examples
 /codesandbox-*              /csb-:splat
+/csb-chirimen-raspi3/*      https://codesandbox.io/s/github/chirimen-oh/chirimen-raspi3/tree/master/gc/:splat
 
 # GPIO Examples on online editors (CodeSandbox, JSBin without css panel)
 # https://github.com/chirimen-oh/chirimen-raspi3/tree/master/gc/gpio
