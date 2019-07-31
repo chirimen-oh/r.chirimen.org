@@ -123,6 +123,10 @@
 /jsbin-i2c-veml6070         /jsbin/sefelel
 /csb-veml6070               /csb-raspi3/i2c/i2c-VEML6070
 
+/i2c-vl53l0x                /jsbin-i2c-vl53l0x
+/jsbin-i2c-vl53l0x          /jsbin/xuhucusemu
+/csb-vl53l0x                /csb-raspi3/i2c/i2c-VL53L0X
+
 
 # Contrib Examples on online editors (CodeSandbox, JSBin without css panel)
 # https://github.com/chirimen-oh/chirimen-raspi3/tree/master/gc/contrib/examples
@@ -142,7 +146,9 @@
 /jsbin-i2c-ads1115          /jsbin/kuboyaxesu
 /csb-ads1115                /csb-raspi3/contrib/examples/i2c-ADS1115
 
-i2c-AMG8833
+/i2c-amg8833                /jsbin-i2c-amg8833
+/jsbin-i2c-amg8833          /jsbin/
+/csb-amg8833                /csb-raspi3/contrib/examples/i2c-AMG8833
 
 /i2c-arduino-steppingmotor  /jsbin-i2c-arduino-steppingmotor
 /jsbin-i2c-arduino-steppingmotor  /jsbin/lololepeyi
@@ -179,7 +185,3 @@ i2c-AMG8833
 /i2c-pcf8591                /jsbin-i2c-pcf8591
 /jsbin-i2c-pcf8591          /jsbin/zatapugoba
 /csb-pcf8591                /csb-raspi3/contrib/examples/i2c-PCF8591
-
-/i2c-vl53l0x                /jsbin-i2c-vl53l0x
-/jsbin-i2c-vl53l0x          /jsbin/xuhucusemu
-/csb-vl53l0x                /csb-raspi3/contrib/examples/i2c-VL53L0X
