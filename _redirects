@@ -124,56 +124,58 @@
 # https://github.com/chirimen-oh/chirimen-raspi3/tree/master/gc/contrib/examples
 /gpio-hbridge               /jsbin-gpio-hbridge
 /jsbin-gpio-hbridge         /jsbin/wufahukaqu
-/csb-hbridge                /csb-raspi3/gpio/hbridge
+/csb-hbridge                /csb-raspi3/contrib/examples/gpio-HBridge
 
 /gpio-i2c-pwmhbridge        /jsbin-gpio-i2c-pwmhbridge
 /jsbin-gpio-i2c-pwmhbridge  /jsbin/direnocafe
-/csb-i2c-pwmhbridge         /csb-raspi3/gpio/i2c-pwmhbridge
+/csb-i2c-pwmhbridge         /csb-raspi3/contrib/examples/gpio-i2c-PWMHBridge1
 
 /gpio-i2c-pwmhbridge2       /jsbin-gpio-i2c-pwmhbridge2
 /jsbin-gpio-i2c-pwmhbridge2 /jsbin/kegawuzuqi
-/csb-i2c-pwmhbridge2        /csb-raspi3/gpio/i2c-pwmhbridge2
+/csb-i2c-pwmhbridge2        /csb-raspi3/contrib/examples/gpio-i2c-PWMHBridge2
 
 /i2c-ads1115                /jsbin-i2c-ads1115
 /jsbin-i2c-ads1115          /jsbin/kuboyaxesu
-/csb-ads1115                /csb-raspi3/i2c/ads1115
+/csb-ads1115                /csb-raspi3/contrib/examples/i2c-ADS1115
 
-/i2c-bme280                 /jsbin-i2c-bme280
-/jsbin-i2c-bme280           /jsbin/demewuvidu
-/csb-bme280                 /csb-raspi3/i2c/bme280
-
-/i2c-bmp180                 /jsbin-i2c-bmp180
-/jsbin-i2c-bmp180           /jsbin/porupehexu
-/csb-bmp180                 /csb-raspi3/i2c/bmp180
-
-/i2c-bmp280                 /jsbin-i2c-bmp280
-/jsbin-i2c-bmp280           /jsbin/limuxedura
-/csb-bmp280                 /csb-raspi3/i2c/bmp280
-
-/i2c-mpu6050                /jsbin-i2c-mpu6050
-/jsbin-i2c-mpu6050          /jsbin/nuwolavila
-/csb-mpu6050                /csb-raspi3/i2c/mpu6050
-
-/i2c-vl53l0x                /jsbin-i2c-vl53l0x
-/jsbin-i2c-vl53l0x          /jsbin/xuhucusemu
-/csb-vl53l0x                /csb-raspi3/i2c/vl53l0x
-
-/i2c-mpu9250                /jsbin-i2c-mpu9250
-/jsbin-i2c-mpu9250          /jsbin/xekuhuwepa
-/csb-mpu9250                /csb-raspi3/i2c/mpu9250
-
-/i2c-neopixel_i2c           /jsbin-i2c-neopixel_i2c
-/jsbin-i2c-neopixel_i2c     /jsbin/resekojija
-/csb-neopixel_i2c           /csb-raspi3/i2c/neopixel_i2c
-
-/i2c-pcf8591                /jsbin-i2c-pcf8591
-/jsbin-i2c-pcf8591          /jsbin/zatapugoba
-/csb-pcf8591                /csb-raspi3/i2c/pcf8591
-
-/i2c-canzasi-blink          /jsbin-i2c-canzasi-blink
-/jsbin-i2c-canzasi-blink    /jsbin/qayotonoqo
-/csb-canzasi-blink          /csb-raspi3/i2c/i2c-canzasi-blink
+i2c-AMG8833
 
 /i2c-arduino-steppingmotor  /jsbin-i2c-arduino-steppingmotor
 /jsbin-i2c-arduino-steppingmotor  /jsbin/lololepeyi
-/csb-arduino-steppingmotor  /csb-raspi3/i2c/i2c-arduino-steppingMotor
+/csb-arduino-steppingmotor  /csb-raspi3/contrib/examples/i2c-arduino-steppingMotor
+
+/i2c-bme280                 /jsbin-i2c-bme280
+/jsbin-i2c-bme280           /jsbin/demewuvidu
+/csb-bme280                 /csb-raspi3/contrib/examples/i2c-BME280
+
+/i2c-bmp180                 /jsbin-i2c-bmp180
+/jsbin-i2c-bmp180           /jsbin/porupehexu
+/csb-bmp180                 /csb-raspi3/contrib/examples/i2c-BMP180
+
+/i2c-bmp280                 /jsbin-i2c-bmp280
+/jsbin-i2c-bmp280           /jsbin/limuxedura
+/csb-bmp280                 /csb-raspi3/contrib/examples/i2c-BMP280
+
+/i2c-canzasi-blink          /jsbin-i2c-canzasi-blink
+/jsbin-i2c-canzasi-blink    /jsbin/qayotonoqo
+/csb-canzasi-blink          /csb-raspi3/contrib/examples/i2c-canzasi-blink
+
+/i2c-mpu6050                /jsbin-i2c-mpu6050
+/jsbin-i2c-mpu6050          /jsbin/nuwolavila
+/csb-mpu6050                /csb-raspi3/contrib/examples/i2c-MPU6050
+
+/i2c-mpu9250                /jsbin-i2c-mpu9250
+/jsbin-i2c-mpu9250          /jsbin/xekuhuwepa
+/csb-mpu9250                /csb-raspi3/contrib/examples/i2c-MPU9250
+
+/i2c-neopixel_i2c           /jsbin-i2c-neopixel_i2c
+/jsbin-i2c-neopixel_i2c     /jsbin/resekojija
+/csb-neopixel_i2c           /csb-raspi3/contrib/examples/i2c-NEOPIXEL_I2C
+
+/i2c-pcf8591                /jsbin-i2c-pcf8591
+/jsbin-i2c-pcf8591          /jsbin/zatapugoba
+/csb-pcf8591                /csb-raspi3/contrib/examples/i2c-PCF8591
+
+/i2c-vl53l0x                /jsbin-i2c-vl53l0x
+/jsbin-i2c-vl53l0x          /jsbin/xuhucusemu
+/csb-vl53l0x                /csb-raspi3/contrib/examples/i2c-VL53L0X
