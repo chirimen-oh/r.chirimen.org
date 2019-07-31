@@ -40,13 +40,13 @@
 
 # aliases for examples
 /codesandbox-*              /csb-:splat
-/csb-chirimen-raspi3/*      https://codesandbox.io/s/github/chirimen-oh/chirimen-raspi3/tree/master/gc/:splat
+/csb-raspi3/*               https://codesandbox.io/s/github/chirimen-oh/chirimen-raspi3/tree/master/gc/:splat
 
 # GPIO Examples on online editors (CodeSandbox, JSBin without css panel)
 # https://github.com/chirimen-oh/chirimen-raspi3/tree/master/gc/gpio
 /gpio-blink                 /jsbin-gpio-blink
 /jsbin-gpio-blink           /jsbin/memejec
-/csb-gpio-blink             /codesandbox/gpio/LEDblink
+/csb-gpio-blink             /csb-raspi3/gpio/LEDblink
 
 /gpio-button                https://jsbin.com/fihalap/edit?html,js,console,output
 /gpio-buttonall             https://jsbin.com/cakehag/edit?html,js,console,output
