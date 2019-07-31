@@ -1,9 +1,10 @@
 # Basic Project Urls
-#/                           https://chirimen.org/
 /                           https://github.com/chirimen-oh/r.chirimen.org/
 /download                   https://download.chirimen.org/release/raspberry_pi_3/
+/raspi                      /raspi3
 /raspi3                     https://github.com/chirimen-oh/chirimen-raspi3
 /issues                     https://github.com/chirimen-oh/chirimen-raspi3/issues
+/microbit                   http://chirimen.org/chirimen-micro-bit/
 
 # Tutorials and Documents
 /tutorial                   https://tutorial.chirimen.org/
