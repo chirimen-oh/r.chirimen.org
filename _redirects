@@ -19,30 +19,37 @@
 /appendix0                  https://tutorial.chirimen.org/raspi3/appendix0
 
 # CHIRIMEN Environment archive
+/gc                         https://chirimen-raspi3-gc.netlify.com/gc.zip
 /gc.zip                     https://chirimen-raspi3-gc.netlify.com/gc.zip
+/_gc                        https://chirimen-raspi3-gc.netlify.com/_gc.zip
 /_gc.zip                    https://chirimen-raspi3-gc.netlify.com/_gc.zip
 
 # JavaScript Files
-/polyfill                   https://chirimen.org/chirimen-raspi3/gc/polyfill/polyfill.js
-/polyfill.js                https://chirimen.org/chirimen-raspi3/gc/polyfill/polyfill.js
+/polyfill                   /raspy-polyfill
+/polyfill.js                /raspy-polyfill
+/raspy-polyfill             https://chirimen.org/chirimen-raspi3/gc/polyfill/polyfill.js
 # TODO: need directory index
 /drivers                    https://chirimen.org/chirimen-raspi3/gc/drivers
 
 # Examples
 /examples                   http://chirimen.org/chirimen-raspi3/gc/top/examples/
 
-# JSBin
+# long to short
+/codesandbox-*              /csb-:splat
 
-# GPIO Examples on JSBin (without css panel)
+# GPIO Examples on online editors (CodeSandbox, JSBin without css panel)
 # https://github.com/chirimen-oh/chirimen-raspi3/tree/master/gc/gpio
-/gpio-blink                 https://jsbin.com/memejec/edit?html,js,console,output
+/gpio-blink                 /jsbin-gpio-blink
+/jsbin-gpio-blink           https://jsbin.com/memejec/edit?html,js,console,output
+/csb-gpio-blink             https://codesandbox.io/s/github/chirimen-oh/chirimen-raspi3/tree/master/gc/gpio/LEDblink
+
 /gpio-button                https://jsbin.com/fihalap/edit?html,js,console,output
 /gpio-buttonall             https://jsbin.com/cakehag/edit?html,js,console,output
 /gpio-multiblinkall         https://jsbin.com/dofewod/edit?html,js,console,output
 /gpio-pirsensor             https://jsbin.com/gebunegezo/edit?html,js,console,output
 /gpio-readgpiovalue         https://jsbin.com/nuqeyiq/edit?html,js,console,output
 
-# I2C Examples on JSBin (without css panel)
+# I2C Examples on online editors (CodeSandbox, JSBin without css panel)
 # https://github.com/chirimen-oh/chirimen-raspi3/tree/master/gc/i2c
 /i2c-ads1015                https://jsbin.com/rajudeg/edit?html,js,console,output
 /i2c-adt7410                https://jsbin.com/geduhex/edit?html,js,console,output
@@ -57,7 +64,7 @@
 /i2c-s11059                 https://jsbin.com/juhafeg/edit?html,js,console,output
 /i2c-veml6070               https://jsbin.com/sefelel/edit?html,js,output
 
-# Contrib Examples on JSBin (without css panel)
+# Contrib Examples on online editors (CodeSandbox, JSBin without css panel)
 # https://github.com/chirimen-oh/chirimen-raspi3/tree/master/gc/contrib/examples
 /gpio-hbridge               https://jsbin.com/wufahukaqu/edit?html,js,output
 /gpio-i2c-pwmhbridge        https://jsbin.com/direnocafe/edit?html,js,output
