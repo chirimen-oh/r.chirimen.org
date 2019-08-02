@@ -1,6 +1,7 @@
 # Basic Project Urls
 /                           https://github.com/chirimen-oh/r.chirimen.org/
 /download                   https://download.chirimen.org/release/raspberry_pi_3/
+/sdimage                    https://download.chirimen.org/release/raspberry_pi_3/2019-08-01-chirimen.zip
 /raspi                      /raspi3
 /raspi3                     https://github.com/chirimen-oh/chirimen-raspi3
 /issues                     https://github.com/chirimen-oh/chirimen-raspi3/issues
