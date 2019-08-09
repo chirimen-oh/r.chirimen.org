@@ -35,7 +35,7 @@
 /polyfill.js                /raspy-polyfill
 /raspy-polyfill             https://chirimen.org/chirimen-raspi3/gc/polyfill/polyfill.js
 # TODO: need directory index
-/drivers                    https://chirimen.org/chirimen-raspi3/gc/drivers
+/drivers                    http://chirimen.org/chirimen-drivers
 
 # Examples
 /examples                   http://chirimen.org/chirimen-raspi3/gc/top/examples/
@@ -84,6 +84,7 @@
 /jsbin-i2c-ads1015          /jsbin/rajudeg
 /csb-ads1015                /csb-raspi3/i2c/i2c-ADS1015
 
+/drivers/adt7410.js         http://chirimen.org/chirimen-drivers/chirimen-driver-i2c-adt7410/ADT7410.js
 /i2c-adt7410                /jsbin-i2c-adt7410
 /jsbin-i2c-adt7410          /jsbin/geduhex
 /csb-adt7410                /csb-raspi3/i2c/i2c-ADT7410
