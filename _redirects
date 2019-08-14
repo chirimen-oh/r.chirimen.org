@@ -148,7 +148,7 @@
 # Contrib Examples on online editors (CodeSandbox, JSBin without css panel)
 # https://github.com/chirimen-oh/chirimen-raspi3/tree/master/gc/contrib/examples
 /gpio-hbridge               /jsbin-gpio-hbridge
-/jsbin-gpio-hbridge         /jsbin/wufahukaqu
+/jsbin-gpio-hbridge         /jsbin/goridum
 /csb-hbridge                /csb-raspi3/contrib/examples/gpio-HBridge
 
 /gpio-i2c-pwmhbridge        /jsbin-gpio-i2c-pwmhbridge
@@ -161,7 +161,7 @@
 
 /ads1115.js                 https://chirimen.org/chirimen-drivers/chirimen-driver-i2c-ads1x15/ADS1x15.js
 /i2c-ads1115                /jsbin-i2c-ads1115
-/jsbin-i2c-ads1115          /jsbin/kuboyaxesu
+/jsbin-i2c-ads1115          /jsbin/nunucud
 /csb-ads1115                /csb-raspi3/contrib/examples/i2c-ADS1115
 
 /amg8833.js                 https://chirimen.org/chirimen-drivers/chirimen-driver-i2c-amg8833/AMG8833.js
@@ -171,46 +171,47 @@
 
 /arduino-steppingmotor.js   https://chirimen.org/chirimen-drivers/chirimen-driver-i2c-arduino-stepping-motor/SteppingMotor.js
 /i2c-arduino-steppingmotor  /jsbin-i2c-arduino-steppingmotor
-/jsbin-i2c-arduino-steppingmotor  /jsbin/lololepeyi
+/jsbin-i2c-arduino-steppingmotor  /jsbin/hosegef
 /csb-arduino-steppingmotor  /csb-raspi3/contrib/examples/i2c-arduino-steppingMotor
 
 /bme280.js                  https://chirimen.org/chirimen-drivers/chirimen-driver-i2c-bme280/BME280.js
 /i2c-bme280                 /jsbin-i2c-bme280
-/jsbin-i2c-bme280           /jsbin/demewuvidu
+/jsbin-i2c-bme280           /jsbin/fuhobuv
 /csb-bme280                 /csb-raspi3/contrib/examples/i2c-BME280
 
 /bmp180.js                  https://chirimen.org/chirimen-drivers/chirimen-driver-i2c-bmp180/BMP180.js
 /i2c-bmp180                 /jsbin-i2c-bmp180
-/jsbin-i2c-bmp180           /jsbin/porupehexu
+/jsbin-i2c-bmp180           /jsbin/yotufiw
 /csb-bmp180                 /csb-raspi3/contrib/examples/i2c-BMP180
 
 /bmp280.js                  https://chirimen.org/chirimen-drivers/chirimen-driver-i2c-bmp280/BMP280.js
 /i2c-bmp280                 /jsbin-i2c-bmp280
-/jsbin-i2c-bmp280           /jsbin/limuxedura
+/jsbin-i2c-bmp280           /jsbin/galinup
 /csb-bmp280                 /csb-raspi3/contrib/examples/i2c-BMP280
 
 /canzasi.js                 https://chirimen.org/chirimen-drivers/chirimen-driver-i2c-canzasi-blink/canzasi.js
 /i2c-canzasi-blink          /jsbin-i2c-canzasi-blink
-/jsbin-i2c-canzasi-blink    /jsbin/qayotonoqo
+/jsbin-i2c-canzasi-blink    /jsbin/juluzoq
 /csb-canzasi-blink          /csb-raspi3/contrib/examples/i2c-canzasi-blink
 
 /mpu6050.js                 https://chirimen.org/chirimen-drivers/chirimen-driver-i2c-mpu6050/MPU6050.js
 /i2c-mpu6050                /jsbin-i2c-mpu6050
-/jsbin-i2c-mpu6050          /jsbin/nuwolavila
+/jsbin-i2c-mpu6050          /jsbin/neyibe
 /csb-mpu6050                /csb-raspi3/contrib/examples/i2c-MPU6050
 
 /ak8963.js                  https://chirimen.org/chirimen-driver-i2c-ak8963/AK8963.js
 /mpu6500.js                 https://chirimen.org/chirimen-drivers/chirimen-driver-i2c-mpu6500/MPU6500.js
 /i2c-mpu9250                /jsbin-i2c-mpu9250
-/jsbin-i2c-mpu9250          /jsbin/xekuhuwepa
+/jsbin-i2c-mpu9250          /jsbin/koliqor
 /csb-mpu9250                /csb-raspi3/contrib/examples/i2c-MPU9250
 
 /neopixel.js                https://chirimen.org/chirimen-drivers/chirimen-driver-i2c-neopixel-i2c/NEOPIXEL_I2C.js
 /i2c-neopixel_i2c           /jsbin-i2c-neopixel_i2c
-/jsbin-i2c-neopixel_i2c     /jsbin/resekojija
+/jsbin-i2c-neopixel_i2c     /jsbin/dijarag
 /csb-neopixel_i2c           /csb-raspi3/contrib/examples/i2c-NEOPIXEL_I2C
 
 /pcf8591.js                 https://chirimen.org/chirimen-drivers/chirimen-driver-i2c-pcf8591/PCF8591.js
 /i2c-pcf8591                /jsbin-i2c-pcf8591
-/jsbin-i2c-pcf8591          /jsbin/zatapugoba
+/jsbin-i2c-pcf8591          /jsbin/savifiv
 /csb-pcf8591                /csb-raspi3/contrib/examples/i2c-PCF8591
+
