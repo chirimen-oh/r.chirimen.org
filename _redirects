@@ -198,7 +198,6 @@
 /jsbin-i2c-mpu6050          /jsbin/neyibe
 /csb-mpu6050                /csb-raspi3/contrib/examples/i2c-MPU6050
 
-/ak8963.js                  https://chirimen.org/chirimen-driver-i2c-ak8963/AK8963.js
 /mpu6500.js                 https://chirimen.org/chirimen-drivers/chirimen-driver-i2c-mpu6500/MPU6500.js
 /i2c-mpu9250                /jsbin-i2c-mpu9250
 /jsbin-i2c-mpu9250          /jsbin/koliqor
