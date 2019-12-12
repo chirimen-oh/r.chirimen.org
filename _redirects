@@ -32,7 +32,7 @@
 # JavaScript Files
 /polyfill                   /raspy-polyfill
 /polyfill.js                /raspy-polyfill
-/raspy-polyfill             https://chirimen.org/chirimen-raspi3/gc/polyfill/polyfill.js
+/raspy-polyfill             https://unpkg.com/@chirimen-raspi/polyfill/polyfill.js
 # TODO: need directory index
 /drivers                    https://chirimen.org/chirimen-drivers
 
