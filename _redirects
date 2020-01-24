@@ -37,7 +37,7 @@
 /drivers                    https://chirimen.org/chirimen-drivers
 
 # Examples
-/examples                   https://chirimen.org/chirimen-raspi3/gc/top/examples/
+/examples                   https://chirimen.org/chirimen/gc/top/examples/
 
 # aliases for online editors
 /jsbin/*                    https://jsbin.com/:splat/edit?html,js,console,output
