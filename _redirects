@@ -33,6 +33,9 @@
 /polyfill                   /raspy-polyfill
 /polyfill.js                /raspy-polyfill
 /raspy-polyfill             https://unpkg.com/@chirimen-raspi/polyfill/polyfill.js
+/relayserver                https://chirimen.org/remote-connection/js/RelayServer.js
+/relayserver.js             /relayserver
+/RelayServer.js             /relayserver
 # TODO: need directory index
 /drivers                    https://chirimen.org/chirimen-drivers
 
