@@ -23,6 +23,11 @@
 /tips                       https://tutorial.chirimen.org/raspi/tips
 /debug                      https://tutorial.chirimen.org/raspi/debug
 
+# micro:bit
+/microbit-firmware          https://microbit.org/get-started/user-guide/firmware/
+/makecode-chirimen          https://makecode.microbit.org/_Jh51P7beW6Kb
+/makecode-chirimen-alpha    https://makecode.microbit.org/_XPuM8WFsKR2E
+
 # CHIRIMEN Environment archive
 /gc                         https://chirimen-gc.netlify.com/gc.zip
 /gc.zip                     https://chirimen-gc.netlify.com/gc.zip
