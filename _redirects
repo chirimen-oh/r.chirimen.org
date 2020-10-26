@@ -35,9 +35,12 @@
 /_gc.zip                    https://chirimen-gc.netlify.com/_gc.zip
 
 # JavaScript Files
-/polyfill                   /raspy-polyfill
-/polyfill.js                /raspy-polyfill
-/raspy-polyfill             https://unpkg.com/@chirimen-raspi/polyfill/polyfill.js
+/polyfill                   /raspi-polyfill.js
+/polyfill.js                /raspi-polyfill.js
+/raspi-polyfill             /raspi-polyfill.js
+/raspi-polyfill.js          https://unpkg.com/@chirimen-raspi/polyfill/polyfill.js
+/microbit-polyfill          /microbit-polyfill.js
+/microbit-polyfill.js       https://cdn.jsdelivr.net/npm/@chirimen/microbit
 /relayserver                https://chirimen.org/remote-connection/js/RelayServer.js
 /relayserver.js             /relayserver
 /RelayServer.js             /relayserver
