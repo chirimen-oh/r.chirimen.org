@@ -145,6 +145,8 @@
 /jsbin-i2c-s11059           /jsbin/dadocip
 /csb-s11059                 /csb-raspi/i2c/i2c-S11059
 
+/csb-sht30                  /csb-raspi/i2c/i2c-SHT30
+
 /veml6070.js                https://unpkg.com/@chirimen-raspi/chirimen-driver-i2c-veml6070/VEML6070.js
 /i2c-veml6070               /jsbin-i2c-veml6070
 /jsbin-i2c-veml6070         /jsbin/rarakak
