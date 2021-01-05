@@ -266,8 +266,8 @@
 
 /csb-ccs811                 https://codesandbox.io/s/github/chirimen-oh/chirimen-drivers/tree/master/raspi-examples/ccs811
 
-/csb-remote-gpio-led        /csb-raspi/contrib/examples/remote-gpio-LED
-/csb-remote-gpio-hbridge    /csb-raspi/contrib/examples/remote-gpio-HBridge
-/csb-remote-gpio-sw         /csb-raspi/contrib/examples/remote-gpio-SW
-/csb-remote-i2c-sht30       /csb-raspi/contrib/examples/remote-i2c-SHT30
-/csb-remote-i2c-pca9685     /csb-raspi/contrib/examples/remote-i2c-PCA9685
+/csb-remote-gpio-led        https://codesandbox.io/s/github/chirimen-oh/chirimen/tree/master/gc/contrib/examples/remote-gpio-LED
+/csb-remote-gpio-hbridge    https://codesandbox.io/s/github/chirimen-oh/chirimen/tree/master/gc/contrib/examples/remote-gpio-HBridge
+/csb-remote-gpio-sw         https://codesandbox.io/s/github/chirimen-oh/chirimen/tree/master/gc/contrib/examples/remote-gpio-SW
+/csb-remote-i2c-sht30       https://codesandbox.io/s/github/chirimen-oh/chirimen/tree/master/gc/contrib/examples/remote-i2c-SHT30
+/csb-remote-i2c-pca9685     https://codesandbox.io/s/github/chirimen-oh/chirimen/tree/master/gc/contrib/examples/remote-i2c-PCA9685
