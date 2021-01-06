@@ -29,10 +29,10 @@
 /makecode-chirimen-alpha    https://makecode.microbit.org/_XPuM8WFsKR2E
 
 # CHIRIMEN Environment archive
-/gc                         https://chirimen-gc.netlify.com/gc.zip
-/gc.zip                     https://chirimen-gc.netlify.com/gc.zip
-/_gc                        https://chirimen-gc.netlify.com/_gc.zip
-/_gc.zip                    https://chirimen-gc.netlify.com/_gc.zip
+/gc                         https://chirimen-gc.netlify.app/gc.zip
+/gc.zip                     https://chirimen-gc.netlify.app/gc.zip
+/_gc                        https://chirimen-gc.netlify.app/_gc.zip
+/_gc.zip                    https://chirimen-gc.netlify.app/_gc.zip
 
 # JavaScript Files
 /polyfill                   /raspi-polyfill.js
