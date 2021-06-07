@@ -22,6 +22,8 @@
 /faq                        https://tutorial.chirimen.org/raspi/faq
 /tips                       https://tutorial.chirimen.org/raspi/tips
 /debug                      https://tutorial.chirimen.org/raspi/debug
+/raspi-gpio                 https://tutorial.chirimen.org/raspi/section0
+/microbit-gpio              https://tutorial.chirimen.org/microbit/gpio_starter
 
 # micro:bit
 /microbit-firmware          https://microbit.org/get-started/user-guide/firmware/
