@@ -1,7 +1,7 @@
 # Basic Project Urls
 /                           https://github.com/chirimen-oh/r.chirimen.org/
-/download                   https://download.chirimen.org/release/raspi/
-/sdimage                    https://download.chirimen.org/release/raspi/2021-01-06-chirimen.zip
+/download                   https://download.chirimen.org/
+/sdimage                    https://download.chirimen.org/2021-08-12-chirimen.zip
 /raspi                      https://github.com/chirimen-oh/chirimen
 /raspi3                     https://github.com/chirimen-oh/chirimen
 /issues                     https://github.com/chirimen-oh/chirimen/issues
