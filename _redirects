@@ -270,6 +270,10 @@
 
 /csb-a4988                  /csb-raspi/contrib/examples/gpio-A4988
 
+/csb-htu21d                 /csb-raspi/contrib/examples/i2c-HTU21D
+
+/csb-scd40                  /csb-raspi/contrib/examples/i2c-SCD40
+
 /csb-remote-gpio-led        https://codesandbox.io/s/github/chirimen-oh/chirimen/tree/master/gc/contrib/examples/remote-gpio-LED
 /csb-remote-gpio-hbridge    https://codesandbox.io/s/github/chirimen-oh/chirimen/tree/master/gc/contrib/examples/remote-gpio-HBridge
 /csb-remote-gpio-sw         https://codesandbox.io/s/github/chirimen-oh/chirimen/tree/master/gc/contrib/examples/remote-gpio-SW
