@@ -266,7 +266,7 @@
 /i2c-vl53l1x                /csb-vl53l1x
 /csb-vl53l1x                /csb-raspi/contrib/examples/i2c-VL53L1X
 
-/csb-ccs811                 https://codesandbox.io/s/github/chirimen-oh/chirimen-drivers/tree/master/raspi-examples/ccs811
+/csb-ccs811                 https://codesandbox.io/s/github/chirimen-oh/chirimen-drivers/tree/master/raspi-examples/ccs811/?module=main.js
 
 /csb-a4988                  /csb-raspi/contrib/examples/gpio-A4988
 
