@@ -285,3 +285,4 @@
 /csb-remote-gpio-sw         https://codesandbox.io/s/github/chirimen-oh/chirimen/tree/master/gc/contrib/examples/remote-gpio-SW
 /csb-remote-i2c-sht30       https://codesandbox.io/s/github/chirimen-oh/chirimen/tree/master/gc/contrib/examples/remote-i2c-SHT30
 /csb-remote-i2c-pca9685     https://codesandbox.io/s/github/chirimen-oh/chirimen/tree/master/gc/contrib/examples/remote-i2c-PCA9685
+/csb-remote-others-camera   https://codesandbox.io/s/github/chirimen-oh/chirimen/tree/master/gc/contrib/examples/remote-others-camera
