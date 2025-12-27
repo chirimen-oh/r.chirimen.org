@@ -40,11 +40,11 @@
 /polyfill                   /raspi-polyfill.js
 /polyfill.js                /raspi-polyfill.js
 /raspi-polyfill             /raspi-polyfill.js
-/raspi-polyfill.js          https://cdn.jsdelivr.net/npm/@chirimen-raspi/polyfill
+/raspi-polyfill.js          https://cdn.jsdelivr.net/npm/@chirimen-raspi/polyfill@1
 /mbit-polyfill              /microbit-polyfill.js
 /mbit-polyfill.js           /microbit-polyfill.js
 /microbit-polyfill          /microbit-polyfill.js
-/microbit-polyfill.js       https://cdn.jsdelivr.net/npm/@chirimen/microbit
+/microbit-polyfill.js       https://cdn.jsdelivr.net/npm/@chirimen/microbit@1
 /relayserver                /RelayServer.js
 /relayserver.js             /RelayServer.js
 /RelayServer.js             https://chirimen.org/remote-connection/js/RelayServer.js
@@ -52,7 +52,7 @@
 # npm modules
 /drivers                    https://chirimen.org/chirimen-drivers
 /driver/*                   /jsdelivr/:splat
-/jsdelivr/*                 https://cdn.jsdelivr.net/npm/@chirimen/:splat
+/jsdelivr/*                 https://cdn.jsdelivr.net/npm/@chirimen/:splat@1
 
 # Examples
 /examples                   https://chirimen.org/chirimen/gc/top/examples/
@@ -105,39 +105,39 @@
 /jsbin-i2c-ads1015          /jsbin/rosarol
 /csb-ads1015                /csb-raspi/i2c/i2c-ADS1015
 
-/adt7410.js                 https://cdn.jsdelivr.net/npm/@chirimen/adt7410
+/adt7410.js                 https://cdn.jsdelivr.net/npm/@chirimen/adt7410@1
 /i2c-adt7410                /csb-adt7410
 /jsbin-i2c-adt7410          /jsbin/nobogar
 /csb-adt7410                /csb-raspi/i2c/i2c-ADT7410
 
-/gp2y0e03.js                https://cdn.jsdelivr.net/npm/@chirimen/gp2y0e03
+/gp2y0e03.js                https://cdn.jsdelivr.net/npm/@chirimen/gp2y0e03@1
 /i2c-gp2y0e03               /csb-gp2y0e03
 /jsbin-i2c-gp2y0e03         /jsbin/nuhele
 /csb-gp2y0e03               /csb-raspi/i2c/i2c-GP2Y0E03
 
-/grove-accelerometer.js     https://cdn.jsdelivr.net/npm/@chirimen/grove-accelerometer
+/grove-accelerometer.js     https://cdn.jsdelivr.net/npm/@chirimen/grove-accelerometer@1
 /i2c-grove-accelerometer    /csb-grove-accelerometer
 /jsbin-i2c-grove-accelerometer  /jsbin/heqahat
 /csb-grove-accelerometer    /csb-raspi/i2c/i2c-grove-accelerometer
 
-/grove-gesture.js           https://cdn.jsdelivr.net/npm/@chirimen/grove-gesture
-/i2c-paj7620.js             https://cdn.jsdelivr.net/npm/@chirimen/grove-gesture
+/grove-gesture.js           https://cdn.jsdelivr.net/npm/@chirimen/grove-gesture@1
+/i2c-paj7620.js             https://cdn.jsdelivr.net/npm/@chirimen/grove-gesture@1
 /i2c-grove-gesture          /csb-grove-gesture
 /i2c-paj7620                /csb-grove-gesture
 /jsbin-i2c-grove-gesture    /jsbin/cikidoh
 /csb-grove-gesture          /csb-raspi/i2c/i2c-grove-gesture
 
-/grove-light.js             https://cdn.jsdelivr.net/npm/@chirimen/grove-light
+/grove-light.js             https://cdn.jsdelivr.net/npm/@chirimen/grove-light@1
 /i2c-grove-light            /csb-grove-light
 /jsbin-i2c-grove-light      /jsbin/hesazum
 /csb-grove-light            /csb-raspi/i2c/i2c-grove-light
 
-/grove-oleddisplay.js       https://cdn.jsdelivr.net/npm/@chirimen/grove-oled-display
+/grove-oleddisplay.js       https://cdn.jsdelivr.net/npm/@chirimen/grove-oled-display@1
 /i2c-grove-oleddisplay      /csb-grove-oleddisplay
 /jsbin-i2c-grove-oleddisplay  /jsbin/nuhojug
 /csb-grove-oleddisplay      /csb-raspi/i2c/i2c-grove-oledDisplay
 
-/grove-touch.js             https://cdn.jsdelivr.net/npm/@chirimen/grove-touch
+/grove-touch.js             https://cdn.jsdelivr.net/npm/@chirimen/grove-touch@1
 /i2c-grove-touch            /csb-grove-touch
 /jsbin-i2c-grove-touch      /jsbin/kedemax
 /csb-grove-touch            /csb-raspi/i2c/i2c-grove-touch
@@ -146,24 +146,24 @@
 /jsbin-i2c-multi-sensors    /jsbin/lusasok
 /csb-multi-sensors          /csb-raspi/i2c/i2c-multi-sensors
 
-/pca9685.js                 https://cdn.jsdelivr.net/npm/@chirimen/pca9685
+/pca9685.js                 https://cdn.jsdelivr.net/npm/@chirimen/pca9685@1
 /i2c-pca9685                /csb-pca9685
 /jsbin-i2c-pca9685          /jsbin/juruhug
 /csb-pca9685                /csb-raspi/i2c/i2c-PCA9685
 
-/s11059.js                  https://cdn.jsdelivr.net/npm/@chirimen/s11059
+/s11059.js                  https://cdn.jsdelivr.net/npm/@chirimen/s11059@1
 /i2c-s11059                 /csb-s11059
 /jsbin-i2c-s11059           /jsbin/dadocip
 /csb-s11059                 /csb-raspi/i2c/i2c-S11059
 
 /csb-sht30                  /csb-raspi/i2c/i2c-SHT30
 
-/veml6070.js                https://cdn.jsdelivr.net/npm/@chirimen/veml6070
+/veml6070.js                https://cdn.jsdelivr.net/npm/@chirimen/veml6070@1
 /i2c-veml6070               /csb-veml6070
 /jsbin-i2c-veml6070         /jsbin/rarakak
 /csb-veml6070               /csb-raspi/i2c/i2c-VEML6070
 
-/vl53l0x.js                 https://cdn.jsdelivr.net/npm/@chirimen/vl53l0x
+/vl53l0x.js                 https://cdn.jsdelivr.net/npm/@chirimen/vl53l0x@1
 /i2c-vl53l0x                /csb-vl53l0x
 /jsbin-i2c-vl53l0x          /jsbin/nirojon
 /csb-vl53l0x                /csb-raspi/i2c/i2c-VL53L0X
@@ -183,86 +183,86 @@
 /jsbin-gpio-i2c-pwmhbridge2 /jsbin/kegawuzuqi
 /csb-i2c-pwmhbridge2        /csb-raspi/contrib/examples/gpio-i2c-PWMHBridge2
 
-/ads1115.js                 https://cdn.jsdelivr.net/npm/@chirimen/ads1x15
+/ads1115.js                 https://cdn.jsdelivr.net/npm/@chirimen/ads1x15@1
 /i2c-ads1115                /csb-ads1115
 /jsbin-i2c-ads1115          /jsbin/nunucud
 /csb-ads1115                /csb-raspi/contrib/examples/i2c-ADS1115
 
-/amg8833.js                 https://cdn.jsdelivr.net/npm/@chirimen/amg8833
+/amg8833.js                 https://cdn.jsdelivr.net/npm/@chirimen/amg8833@1
 /i2c-amg8833                /csb-amg8833
 /jsbin-i2c-amg8833          /jsbin/
 /csb-amg8833                /csb-raspi/contrib/examples/i2c-AMG8833
 
-/apds9960.js                https://cdn.jsdelivr.net/npm/@chirimen/apds9960
+/apds9960.js                https://cdn.jsdelivr.net/npm/@chirimen/apds9960@1
 /i2c-apds9960               /csb-apds9960
 /csb-apds9960               /csb-raspi/contrib/examples/i2c-APDS9960
 
-/arduino-steppingmotor.js   https://cdn.jsdelivr.net/npm/@chirimen/arduino-stepping-motor
+/arduino-steppingmotor.js   https://cdn.jsdelivr.net/npm/@chirimen/arduino-stepping-motor@1
 /i2c-arduino-steppingmotor  /csb-arduino-steppingmotor
 /jsbin-i2c-arduino-steppingmotor  /jsbin/hosegef
 /csb-arduino-steppingmotor  /csb-raspi/contrib/examples/i2c-arduino-steppingMotor
 
-/bh1750.js                  https://cdn.jsdelivr.net/npm/@chirimen/bh1750
+/bh1750.js                  https://cdn.jsdelivr.net/npm/@chirimen/bh1750@1
 /i2c-bh1750                 /csb-bh1750
 /csb-bh1750                 /csb-raspi/contrib/examples/i2c-BH1750
 
-/bme280.js                  https://cdn.jsdelivr.net/npm/@chirimen/bme280
+/bme280.js                  https://cdn.jsdelivr.net/npm/@chirimen/bme280@1
 /i2c-bme280                 /csb-bme280
 /jsbin-i2c-bme280           /jsbin/fuhobuv
 /csb-bme280                 /csb-raspi/contrib/examples/i2c-BME280
 
-/bmp180.js                  https://cdn.jsdelivr.net/npm/@chirimen/bmp180
+/bmp180.js                  https://cdn.jsdelivr.net/npm/@chirimen/bmp180@1
 /i2c-bmp180                 /csb-bmp180
 /jsbin-i2c-bmp180           /jsbin/yotufiw
 /csb-bmp180                 /csb-raspi/contrib/examples/i2c-BMP180
 
-/bmp280.js                  https://cdn.jsdelivr.net/npm/@chirimen/bmp280
+/bmp280.js                  https://cdn.jsdelivr.net/npm/@chirimen/bmp280@1
 /i2c-bmp280                 /csb-bmp280
 /jsbin-i2c-bmp280           /jsbin/galinup
 /csb-bmp280                 /csb-raspi/contrib/examples/i2c-BMP280
 
-/canzasi.js                 https://cdn.jsdelivr.net/npm/@chirimen/canzasi
+/canzasi.js                 https://cdn.jsdelivr.net/npm/@chirimen/canzasi@1
 /i2c-canzasi-blink          /csb-canzasi-blink
 /jsbin-i2c-canzasi-blink    /jsbin/juluzoq
 /csb-canzasi-blink          /csb-raspi/contrib/examples/i2c-canzasi-blink
 
-/ina219.js                  https://cdn.jsdelivr.net/npm/@chirimen/ina219
+/ina219.js                  https://cdn.jsdelivr.net/npm/@chirimen/ina219@1
 /i2c-ina219                 /csb-ina219
 /csb-ina219                 /csb-raspi/contrib/examples/i2c-INA219
 
-/mlx90614.js                https://cdn.jsdelivr.net/npm/@chirimen/mlx90614
+/mlx90614.js                https://cdn.jsdelivr.net/npm/@chirimen/mlx90614@1
 /i2c-mlx90614               /csb-mlx90614
 /csb-mlx90614               /csb-raspi/contrib/examples/i2c-MLX90614
 
-/mpu6050.js                 https://cdn.jsdelivr.net/npm/@chirimen/mpu6050
+/mpu6050.js                 https://cdn.jsdelivr.net/npm/@chirimen/mpu6050@1
 /i2c-mpu6050                /csb-mpu6050
 /jsbin-i2c-mpu6050          /jsbin/neyibe
 /csb-mpu6050                /csb-raspi/contrib/examples/i2c-MPU6050
 
-/mpu6500.js                 https://cdn.jsdelivr.net/npm/@chirimen/mpu6500
+/mpu6500.js                 https://cdn.jsdelivr.net/npm/@chirimen/mpu6500@1
 /i2c-mpu9250                /csb-mpu9250
 /jsbin-i2c-mpu9250          /jsbin/koliqor
 /csb-mpu9250                /csb-raspi/contrib/examples/i2c-MPU9250
 
-/neopixel.js                https://cdn.jsdelivr.net/npm/@chirimen/neopixel-i2c
+/neopixel.js                https://cdn.jsdelivr.net/npm/@chirimen/neopixel-i2c@1
 /i2c-neopixel_i2c           /csb-neopixel_i2c
 /jsbin-i2c-neopixel_i2c     /jsbin/dijarag
 /csb-neopixel_i2c           /csb-raspi/contrib/examples/i2c-NEOPIXEL_I2C
 
-/pcf8591.js                 https://cdn.jsdelivr.net/npm/@chirimen/pcf8591
+/pcf8591.js                 https://cdn.jsdelivr.net/npm/@chirimen/pcf8591@1
 /i2c-pcf8591                /csb-pcf8591
 /jsbin-i2c-pcf8591          /jsbin/savifiv
 /csb-pcf8591                /csb-raspi/contrib/examples/i2c-PCF8591
 
-/tcs34725.js                https://cdn.jsdelivr.net/npm/@chirimen/tcs34725
+/tcs34725.js                https://cdn.jsdelivr.net/npm/@chirimen/tcs34725@1
 /i2c-tcs34725               /csb-tcs34725
 /csb-tcs34725               /csb-raspi/contrib/examples/i2c-TCS34725
 
-/seesaw.js                  https://cdn.jsdelivr.net/npm/@chirimen/seesaw
+/seesaw.js                  https://cdn.jsdelivr.net/npm/@chirimen/seesaw@1
 /i2c-seesaw                 /csb-seesaw
 /csb-seesaw                 /csb-raspi/contrib/examples/i2c-seesaw
 
-/vl53l1x.js                 https://cdn.jsdelivr.net/npm/@chirimen/vl53l1x
+/vl53l1x.js                 https://cdn.jsdelivr.net/npm/@chirimen/vl53l1x@1
 /i2c-vl53l1x                /csb-vl53l1x
 /csb-vl53l1x                /csb-raspi/contrib/examples/i2c-VL53L1X
 
